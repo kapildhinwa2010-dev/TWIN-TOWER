@@ -1,0 +1,3 @@
+"""Detect duplicated and redundant layers."""
+
+__version__ = "0.1.0"
