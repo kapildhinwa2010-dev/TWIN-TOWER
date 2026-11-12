@@ -1,5 +1,7 @@
 # TWIN-TOWER
 
+[![Stars](https://img.shields.io/github/stars/kapildhinwa2010-dev/TWIN-TOWER?style=flat-square)](https://github.com/kapildhinwa2010-dev/TWIN-TOWER/stargazers) [![Forks](https://img.shields.io/github/forks/kapildhinwa2010-dev/TWIN-TOWER?style=flat-square)](https://github.com/kapildhinwa2010-dev/TWIN-TOWER/network/members) [![Issues](https://img.shields.io/github/issues/kapildhinwa2010-dev/TWIN-TOWER?style=flat-square)](https://github.com/kapildhinwa2010-dev/TWIN-TOWER/issues) [![Top language](https://img.shields.io/github/languages/top/kapildhinwa2010-dev/TWIN-TOWER?style=flat-square)](https://github.com/kapildhinwa2010-dev/TWIN-TOWER)
+
 Layer duplication detector: scan a stack of same-shape weight matrices and find out how many layers are actually doing the same job.
 
 TWIN-TOWER flattens every layer, measures absolute cosine similarity between all pairs, and clusters near-duplicates into towers. The report shows the clusters, the number of towers, how many layers are redundant, and the most similar pair.
